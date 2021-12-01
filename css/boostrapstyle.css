@@ -320,15 +320,6 @@ border-radius: 10px;
 	}
 }
 
-@media only screen and (max-width: 590px) {
-	.articleTxt p {
-		font-size: 18px;
-		max-width: 60ch;
-		text-align: center;
-        padding: 20px;
-	}
-}
-
 /* FAQS */
 
 .faqs {
